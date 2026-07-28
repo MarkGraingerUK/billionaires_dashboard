@@ -13,7 +13,7 @@ This dashboard was built step-by-step to explore global billionaire wealth patte
 - **Global Distribution**: Interactive map showing number of billionaires per country (single-colour bubbles sized by count)
 - **Gender Count**: Total number of billionaires by gender
 
-
+![Overview Page](image_1.webp)
 
 ## Page 2: Deeper Insights
 - **Average Wealth by Age Group**: Ages grouped into Under 50, 50–69, 70–89, 90+ to compare average net worth across life stages
@@ -21,11 +21,15 @@ This dashboard was built step-by-step to explore global billionaire wealth patte
 - **Gender Breakdown**: Side-by-side comparison of billionaire count and average wealth by gender
 - **Count by Country**: Ranked list of how many billionaires are in each nation
 
+![Deeper Insights Page](image_2.webp)
+
 ## Page 3: Advanced Analysis
 - **Age vs Net Worth**: Scatter plot showing the relationship between age and wealth, split by self-made / inherited
 - **Wealth by Industry & Gender**: Treemap showing total wealth share across industries and within each by gender
 - **Top 15 Richest Individuals**: Horizontal bar chart of the wealthiest people, coloured by how their fortune was made
 - **Interactive Summary**: Slicer + key metrics cards – filter all visuals instantly by country or age group
+
+![Advanced Analysis Page](image_3.webp)
 
 ---
 
