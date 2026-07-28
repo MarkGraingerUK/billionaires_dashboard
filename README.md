@@ -11,11 +11,15 @@ This dashboard was built step-by-step to explore global billionaire wealth patte
 - **Total Net Worth by Industry**: Sorted bar chart showing which sectors hold the most combined wealth
 - **Wealth Source**: Donut chart comparing self-made vs inherited fortunes
 - **Global Distribution**: Interactive map showing number of billionaires per country (single-colour bubbles sized by count)
+- **Gender Count**: Total number of billionaires by gender
+
+
 
 ## Page 2: Deeper Insights
 - **Average Wealth by Age Group**: Ages grouped into Under 50, 50–69, 70–89, 90+ to compare average net worth across life stages
 - **Wealth Source by Industry**: Stacked bar chart breaking down self-made vs inherited wealth for every sector
 - **Gender Breakdown**: Side-by-side comparison of billionaire count and average wealth by gender
+- **Count by Country**: Ranked list of how many billionaires are in each nation
 
 ## Page 3: Advanced Analysis
 - **Age vs Net Worth**: Scatter plot showing the relationship between age and wealth, split by self-made / inherited
